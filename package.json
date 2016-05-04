@@ -1,0 +1,19 @@
+{
+  "name": "genie",
+  "version": "1.0.0",
+  "description": "An internal application for VerticalOps",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/wizardoncouch/genie.git"
+  },
+  "author": "Alex Culango",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/wizardoncouch/genie/issues"
+  },
+  "homepage": "https://github.com/wizardoncouch/genie#readme"
+}
